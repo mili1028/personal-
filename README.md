@@ -171,7 +171,7 @@
             fill="#ff7aa2"/>
     </svg>
 
-    <h1>will u go out with me heemcreem?</h1>
+    <h1>will u be my girlfriend Aadhya ?</h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Yes</button>
