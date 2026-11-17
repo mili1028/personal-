@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title> for ya heemcreem?</title>
+  <title> for ya pihu ?</title>
 
   <!-- Confetti library -->
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
@@ -171,7 +171,7 @@
             fill="#ff7aa2"/>
     </svg>
 
-    <h1>will u be my girlfriend Aadhya ?</h1>
+    <h1> do u like mili the billa?</h1>
 
     <section class="button-zone" id="zone">
       <button id="yesBtn">Yes</button>
